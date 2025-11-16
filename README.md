@@ -156,10 +156,9 @@ Currently working as a **Data Engineer at Relu Consultancy**, building intellige
 
 <div align="center">
 
-| 🎓 Academic | 🏅 Competitions | 💡 Technical |
-|-------------|-----------------|--------------|
-| Published **4 IEEE Research Papers** | Rakuten Rakathon Top 100 | Built multiple AI Chatbots + RAG systems |
-| 50% Scholarship at Chandigarh University | Naukri Campus Young Turks (Qualified Round 1) | Expertise in Automations & Vision Models |
+| 🎓 Academic | 💡 Technical | 🤖 AI & Automation |
+|-------------|--------------|-------------------|
+| Published **4 IEEE Research Papers** | Built multiple AI Chatbots + RAG systems | Expertise in Automations & Vision Models |
 
 </div>
 
