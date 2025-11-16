@@ -1,6 +1,9 @@
 # 👋 Hello! I'm Srujan
 
 <div align="center">
+
+![GitHub Snake Light](https://raw.githubusercontent.com/srujanprabhu/srujanprabhu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/srujanprabhu/srujanprabhu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 ### 🚀 AI Engineer | Automation Developer | Python Enthusiast
 
@@ -31,7 +34,6 @@ Currently working as a **Data Engineer at Relu Consultancy**, building intellige
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </td>
@@ -172,8 +174,5 @@ Currently working as a **Data Engineer at Relu Consultancy**, building intellige
 ---
 
 ### 💬 Let's Connect and Build Something Amazing!
-
-![GitHub Snake Light](https://raw.githubusercontent.com/srujanprabhu/srujanprabhu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/srujanprabhu/srujanprabhu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
