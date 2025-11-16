@@ -173,6 +173,7 @@ Currently working as a **Data Engineer at Relu Consultancy**, building intellige
 
 ### 💬 Let's Connect and Build Something Amazing!
 
-⭐️ *If you like my work, consider giving my repositories a star!*
+![GitHub Snake Light](https://raw.githubusercontent.com/srujanprabhu/srujanprabhu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/srujanprabhu/srujanprabhu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
