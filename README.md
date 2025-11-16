@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Srujan
+# 👋 Hello! I'm Srujan Prabhu
 
 <div align="center">
 
