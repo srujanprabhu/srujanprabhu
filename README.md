@@ -1,17 +1,22 @@
 # 👋 Hello! I'm Srujan
 
+<div align="center">
+  
 ### 🚀 AI Engineer | Automation Developer | Python Enthusiast
 
-📫 **Email:** srujanprabhu18@gmail.com  
-🌐 **Portfolio:** https://protofolio-production.up.railway.app/  
-💼 **LinkedIn:** https://www.linkedin.com/in/srujan-prabhu/  
-💻 **GitHub:** https://github.com/srujanprabhu  
+[![Email](https://img.shields.io/badge/Email-srujanprabhu18%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:srujanprabhu18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://protofolio-production.up.railway.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srujan-prabhu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/srujanprabhu)
+
+</div>
 
 ---
 
 ## 🧑‍💼 About Me
 
-I’m a Computer Science graduate specializing in **Artificial Intelligence & Machine Learning**, with strong hands-on experience in **automation workflows**, **web scraping**, **AI agents**, and **cloud-based API integrations**.  
+I'm a Computer Science graduate specializing in **Artificial Intelligence & Machine Learning**, with strong hands-on experience in **automation workflows**, **web scraping**, **AI agents**, and **cloud-based API integrations**.
+
 I love building systems that **automate real-world tasks**, save human time, and make businesses more efficient.
 
 Currently working as a **Data Engineer at Relu Consultancy**, building intelligent automation pipelines using **Python, LLMs, n8n, REST APIs, and Computer Vision**.
@@ -20,91 +25,154 @@ Currently working as a **Data Engineer at Relu Consultancy**, building intellige
 
 ## 🛠️ Tech Stack
 
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
 ### **Languages**
-- 🐍 Python  
-- 🌐 JavaScript  
-- 🗄️ SQL  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td align="center" width="33%">
 
 ### **AI & ML**
-- Machine Learning  
-- Computer Vision  
-- GenAI (LLMs)  
-- RAG  
-- Agentic AI  
+- Machine Learning
+- Computer Vision
+- GenAI (LLMs)
+- RAG
+- Agentic AI
+
+</td>
+<td align="center" width="33%">
 
 ### **Tools & Frameworks**
-- Selenium  
-- PyAutoGUI  
-- Streamlit  
-- n8n  
-- REST APIs  
-- Google APIs  
+- Selenium
+- PyAutoGUI
+- Streamlit
+- n8n
+- REST APIs
+- Google APIs
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### **Databases**
-- MongoDB  
-- SQL  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</div>
 
 ---
 
-## 📌 Professional Experience
+## 💼 Professional Experience
 
-### **Data Engineer — Relu Consultancy (Apr 2025 – Present)**
-- Built scalable web scraping pipelines using **Python + LLMs**  
-- Designed **n8n automation workflows** for multi-step data transformation  
-- Integrated **third-party SaaS APIs** using OAuth2  
-- Automated repetitive processes, reducing manual work and improving efficiency  
+### **Data Engineer — Relu Consultancy** `Apr 2025 – Present`
+
+- 🕷️ Built scalable web scraping pipelines using **Python + LLMs**
+- ⚙️ Designed **n8n automation workflows** for multi-step data transformation
+- 🔗 Integrated **third-party SaaS APIs** using OAuth2
+- 🚀 Automated repetitive processes, reducing manual work and improving efficiency
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Face Recognition System (Freelance)
-- Real-time recognition using Computer Vision  
-- Email alerts for unknown users  
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Face Recognition System
+**Freelance Project**
+- Real-time recognition using Computer Vision
+- Email alerts for unknown users
 - Built using **Streamlit** + **Python**
 
+</td>
+<td width="50%">
+
 ### 🔹 Cursor Control with Eye Movement
-- Assistive tech for physically disabled users  
-- Built with **MediaPipe + PyAutoGUI**  
+**IEEE Published**
+- Assistive tech for physically disabled users
+- Built with **MediaPipe + PyAutoGUI**
 - Published at **IEEE International Conference**
 
-### 🔹 Abandoned Cart → Automated MMS & Email System (n8n)
-- Captures cart abandonment  
-- Auto-generates personalized product videos  
-- Sent via Email/MMS → boosted conversions significantly  
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🔹 Automated Due Diligence Webpage Creator
-- Crawls a company’s website + Google  
-- Extracts key financial context  
-- Generates and deploys a webpage using AI  
+### 🔹 Abandoned Cart Automation
+**n8n Workflow**
+- Captures cart abandonment
+- Auto-generates personalized product videos
+- Sent via Email/MMS → boosted conversions
+
+</td>
+<td width="50%">
+
+### 🔹 Automated Due Diligence Webpage
+**AI-Powered**
+- Crawls company website + Google
+- Extracts key financial context
+- Generates and deploys webpage using AI
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### 🔹 Medical Diagnosis using LLM + RAG
-- Predicts diseases from symptoms  
-- Uses Snowflake SQL for fast retrieval  
-- Highly accurate context-aware responses  
+**Healthcare AI**
+- Predicts diseases from symptoms using Snowflake SQL for fast retrieval
+- Highly accurate context-aware responses
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujanprabhu&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=srujanprabhu&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanprabhu&layout=compact&theme=dark" />
-</p>
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srujanprabhu&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=srujanprabhu&show_icons=true&theme=dark&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanprabhu&layout=compact&theme=dark&hide_border=true" width="40%" />
+
+</div>
 
 ---
 
 ## 🏆 Achievements
-- Published **4 IEEE Research Papers**  
-- 50% Scholarship at Chandigarh University  
-- Rakuten Rakathon Top 100  
-- Qualified first round: Naukri Campus Young Turks  
-- Built multiple AI Chatbots + RAG systems  
-- Worked on Automations, Vision Models, and Agentic AI  
+
+<div align="center">
+
+| 🎓 Academic | 🏅 Competitions | 💡 Technical |
+|-------------|-----------------|--------------|
+| Published **4 IEEE Research Papers** | Rakuten Rakathon Top 100 | Built multiple AI Chatbots + RAG systems |
+| 50% Scholarship at Chandigarh University | Naukri Campus Young Turks (Qualified Round 1) | Expertise in Automations & Vision Models |
+
+</div>
 
 ---
 
+<div align="center">
+
 ## ✨ Quote I Follow
+
 > *"Build once. Automate forever."*
 
+---
+
+### 💬 Let's Connect and Build Something Amazing!
+
+⭐️ *If you like my work, consider giving my repositories a star!*
+
+</div>
